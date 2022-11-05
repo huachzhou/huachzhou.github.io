@@ -30,7 +30,7 @@ In pursuit of what I dreamed of, my current major research interests include but
     <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
     Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
-    <i>International Conference ON Web-Based Learning (**ICWL**)</i>.       
+    <i>International Conference on Web-Based Learning (**ICWL**)</i>.       
 * [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
     Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary Sin, Yaowei Wang.      
     <i>International Conference on Blended Learning (**ICBL**)</i>.   
