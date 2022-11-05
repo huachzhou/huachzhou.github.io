@@ -25,7 +25,7 @@ In pursuit of what I dreamed of, my current major research interests include but
 
 <b>2022</b>
 
-* [Contrastive Knowledge Graph Error Detection](https://junnandong.github.io).     
+* [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     
     Qinggang Zhang, <b>Junnan Dong</b>, Xiao Huang*, Yezi Liu, Linchuan Xu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
