@@ -22,7 +22,7 @@ In pursuit of what I dream of, my current research interests include but not lim
 <b>2023</b>
 * [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).     
     <b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
-    <i>ACM International Conference on Information and Knowledge Management (**WSDM**)</i>.  
+    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>.  
 <!--     ![KAEL](/images/KAEL.jpg "KAEL") -->
     <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
 
