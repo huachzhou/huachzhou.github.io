@@ -1,13 +1,15 @@
 # main links links
 main:
+  - title: "Talks"
+    url: /talks/   
+    
   - title: "Album"
     url: /album/
 
   - title: "Calligraphy"
     url: /calligraphy/    
 
-  - title: "Talks"
-    url: /talks/    
+ 
     
 #   - title: "Portfolio"
 #     url: /portfolio/
