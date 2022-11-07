@@ -29,7 +29,7 @@ In pursuit of what I dream of, my current research interests include but not lim
 <b>2022</b>
 
 * [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     
-    Qinggang Zhang, <b>Junnan Dong</b>, Xiao Huang*, Yezi Liu, Linchuan Xu.      
+    Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.      
     <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
     Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
