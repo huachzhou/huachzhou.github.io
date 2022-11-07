@@ -24,7 +24,7 @@ In pursuit of what I dreamed of, my current major research interests include but
     <b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
     <i>ACM International Conference on Information and Knowledge Management (**WSDM**)</i>.  
 <!--     ![KAEL](/images/KAEL.jpg "KAEL") -->
-    <img src="/images/KAEL.jpg" alt="KAEL" width="800"/>
+    <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
 
 <b>2022</b>
 
