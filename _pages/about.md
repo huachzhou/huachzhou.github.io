@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022, and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
+I am a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022 and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
 
 Before my Ph.D. study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/bilibili/TCL Corporate Research, respectively. I was aware of my desire to pursue a Ph.D. degree in these internships and ready to begin the trip.
 
@@ -26,7 +26,7 @@ Before my Ph.D. study, I explored different roles in the industry and worked as 
 <b>2021</b>
 * [Temporal augmented graph neural networks for session-based recommendations](https://dl.acm.org/doi/10.1145/3404835.3463112?cid=99659129036).     
     <b>Huachi Zhou</b>, Qiaoyu Tan, Xiao Huang, Kaixiong Zhou, Xiaoling Wang  
-    <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)</i>. 
+    <i>ACM International Conference on Research and Development in Information Retrieval (**SIGIR**)</i>. 
     
 <b>2020</b>
 * [Low rank communication for federated learning](https://link.springer.com/chapter/10.1007/978-3-030-59413-8_1).     
