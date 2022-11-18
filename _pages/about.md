@@ -13,6 +13,7 @@ I am now a first-year research student in DEEP Lab at The Hong Kong Polytechnic 
 Before my P.h.D study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/Bili Bili/TCL Cooperate Research, respectively. I was aware of my desire to pursue a Ph.D. in these internships and ready to begin the trip.
 
 <h1> Publications </h1>
+
 <b>2022</b>
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://huachzhou.github.io).     
     Wentao Li, <b>Huachi Zhou</b>, Junnan Dong, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
