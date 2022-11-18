@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "On the P.h.D Trip"
+title: "On the Ph.D. Trip"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,24 +10,25 @@ redirect_from:
 
 I am now a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022, and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
 
-Before my the P.h.D study. I explored different roles in industry and worked as an test/algorithm/research intern in Morgan Stanley/Bili Bili/TCL Cooperate Research respectively.
+Before my P.h.D study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/Bili Bili/TCL Cooperate Research, respectively. I was aware of my desire to pursue a Ph.D. in these internships and ready to begin the trip.
 
 <h1> Publications </h1>
 <b>2022</b>
-* [Active Ensemble Learning for Knowledge Graph Error Detection](https://junnandong.github.io).     
-    <b>Junnan Dong</b>, Qinggang Zhang, Xiao Huang*, Qiaoyu Tan, Daochen Zha, Zihao Zhao     
-    <i>ACM International Conference on Web Search and Data Mining (**WSDM**)</i>.  
-<!--     ![KAEL](/images/KAEL.jpg "KAEL") -->
-    <img src="/images/KAEL.jpg" alt="KAEL" width="700"/>
-
-<b>2022</b>
-
-* [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).     
-    Qinggang Zhang, <b>Junnan Dong</b>, Keyu Duan, Xiao Huang*, Yezi Liu, Linchuan Xu.      
-    <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
-    Wentao Li, Huachi Zhou, <b>Junnan Dong</b>, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
-    <i>International Conference on Web-Based Learning (**ICWL**)</i>.       
-* [KCUBE: A Knowledge Graph University Curriculum Framework for Student Advising and Career Planning](https://link.springer.com/chapter/10.1007/978-3-031-08939-8_31).
-    Qing Li, George Baciu, Jiannong Cao, Xiao Huang, Richard Chen Li, Peter HF Ng, <b>Junnan Dong</b>, Qinggang Zhang, Zackary Sin, Yaowei Wang.      
-    <i>International Conference on Blended Learning (**ICBL**)</i>.   
+    Wentao Li, <b>Huachi Zhou</b>, Junnan Dong, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
+    <i>International Conference on Web-Based Learning (**ICWL**)</i>.
+* [Multi-Interest Refinement by Collaborative Attributes Modeling for Click-Through Rate Prediction](https://junnandong.github.io).     
+    <b>Huachi Zhou</b>, Jiaqi Fan, Xiao Huang, Ka Ho Li, Zhenyu Tang, Dahai Yu     
+    <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
+  
+<b>2021</b>
+* [Temporal augmented graph neural networks for session-based recommendations](https://junnandong.github.io).     
+    <b>Huachi Zhou</b>, Qiaoyu Tan, Xiao Huang, Kaixiong Zhou, Xiaoling Wang  
+    <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)</i>. 
+    
+<b>2020</b>
+* [Low rank communication for federated learning](https://junnandong.github.io).     
+    <b>Huachi Zhou</b>, Junhong Cheng, Xiangfeng Wang, Bo Jin  
+    <i>Database Systems for Advanced Applications (**DASFAA Workshop**)</i>. 
+
+  
