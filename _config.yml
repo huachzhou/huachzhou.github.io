@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junnan Dong (董俊男 Hanson)"
+title                    : "Huachi Zhou"
 title_separator          : "-"
-name                     : &name "Junnan Dong (董俊男 Hanson)"
+name                     : &name "Huachi Zhou"
 description              : &description "Research Student in Data Mining and Graph learning"
-url                      : https://junnandong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huachzhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JunnanDong/junnandong.github.io"
+repository               : "huachzhou/huachzhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junnan Dong<br>(董俊男 Hanson)"
+  name             : "Huachi Zhou"
   avatar           : "profile.jpg"
   bio              : "Research Student in Data Mining and Graph learning"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=m7_ceMcAAAAJ&hl=en"
-  email            : "hanson.dong@connect.polyu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Junnan-Dong"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "huachi.zhou@connect.polyu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Zhou-Huachi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JunnanDong"
+  github           : "huachzhou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #
   lastfm           :
-  linkedin         : "hanson-dong-a47293177"
-  orcid            : "http://orcid.org/0000-0003-2117-6083"
+  linkedin         : "华驰-周-512a02197"
+  orcid            : "https://orcid.org/0000-0002-8301-8470"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
