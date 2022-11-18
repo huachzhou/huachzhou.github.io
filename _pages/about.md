@@ -14,20 +14,21 @@ Before my P.h.D study, I explored different roles in the industry and worked as 
 
 <h1> Publications </h1>
 <b>2022</b>
-* [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://junnandong.github.io).     
+* [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://huachzhou.github.io).     
     Wentao Li, <b>Huachi Zhou</b>, Junnan Dong, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
     <i>International Conference on Web-Based Learning (**ICWL**)</i>.
-* [Multi-Interest Refinement by Collaborative Attributes Modeling for Click-Through Rate Prediction](https://junnandong.github.io).     
+    
+* [Multi-Interest Refinement by Collaborative Attributes Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/abs/10.1145/3511808.3557652).     
     <b>Huachi Zhou</b>, Jiaqi Fan, Xiao Huang, Ka Ho Li, Zhenyu Tang, Dahai Yu     
     <i>ACM International Conference on Information and Knowledge Management (**CIKM**)</i>.  
   
 <b>2021</b>
-* [Temporal augmented graph neural networks for session-based recommendations](https://junnandong.github.io).     
+* [Temporal augmented graph neural networks for session-based recommendations](https://dl.acm.org/doi/10.1145/3404835.3463112?cid=99659129036).     
     <b>Huachi Zhou</b>, Qiaoyu Tan, Xiao Huang, Kaixiong Zhou, Xiaoling Wang  
     <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)</i>. 
     
 <b>2020</b>
-* [Low rank communication for federated learning](https://junnandong.github.io).     
+* [Low rank communication for federated learning](https://link.springer.com/chapter/10.1007/978-3-030-59413-8_1).     
     <b>Huachi Zhou</b>, Junhong Cheng, Xiangfeng Wang, Bo Jin  
     <i>Database Systems for Advanced Applications (**DASFAA Workshop**)</i>. 
 
