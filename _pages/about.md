@@ -13,7 +13,11 @@ I am a first-year research student in DEEP Lab at The Hong Kong Polytechnic Univ
 Before my Ph.D. study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/Bilibili/TCL Corporate Research, respectively. I was aware of my desire to pursue a Ph.D. degree in these internships and ready to begin the trip.
 
 <h1> Publications </h1>
-
+<b>2023</b>
+* [Interest Driven Graph Structure Learning for Session-based Recommendation](https://huachzhou.github.io).     
+    <b>Huachi Zhou</b>, Shuang Zhou, Keyu Duan, Xiao Huang, Qiaoyu Tan, Zailiang Yu     
+    <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>.
+    
 <b>2022</b>
 * [Consistent and Non-Redundant Knowledge Graph Construction for Interactive Education](https://huachzhou.github.io).     
     Wentao Li, <b>Huachi Zhou</b>, Junnan Dong, Qinggang Zhang, Qing Li, George Baciu, Jiannong Cao and Xiao Huang     
