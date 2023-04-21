@@ -16,7 +16,7 @@ Before my Ph.D. study, I explored different roles in the industry and worked as 
 
 <b>2023</b>
 * [Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation](https://huachzhou.github.io).     
-    Shuang Zhou, Xiao Huang, Ninghao, Liu, <b>Huachi Zhou</b>, Fu-lai Chung, Long-Kai, Huang     
+    Shuang Zhou, Xiao Huang, Ninghao, Liu, <b>Huachi Zhou</b>, Fu-lai Chung, Long-Kai Huang     
     <i>Transactions on Knowledge and Data Engineering (**TKDE**)</i>.
     
 * [Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://huachzhou.github.io).     
