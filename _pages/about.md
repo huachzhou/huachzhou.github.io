@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year research student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022 and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
+I am a first-year Ph.D. student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022 and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
 
 Before my Ph.D. study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/Bilibili/TCL Corporate Research, respectively. I was aware of my desire to pursue a Ph.D. degree in these internships and ready to begin the trip.
 
