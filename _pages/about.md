@@ -15,6 +15,14 @@ Before my Ph.D. study, I explored different roles in the industry and worked as 
 <h1> Publications </h1>
 
 <b>2023</b>
+* [Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation](https://huachzhou.github.io).     
+    Shuang Zhou, Xiao Huang, Ninghao, Liu, <b>Huachi Zhou</b>, Fu-lai Chung, Long-Kai, Huang     
+    <i>Transactions on Knowledge and Data Engineering (**TKDE**)</i>.
+    
+* [Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering](https://huachzhou.github.io).     
+    <b>Huachi Zhou</b>, Hao Chen, Junnan Dong, Daochen Zha, Chuang Zhou, Xiao Huang  
+    <i>ACM International Conference on Research and Development in Information Retrieval (**SIGIR**)</i>. 
+    
 * [Interest Driven Graph Structure Learning for Session-based Recommendation](https://huachzhou.github.io).     
     <b>Huachi Zhou</b>, Shuang Zhou, Keyu Duan, Xiao Huang, Qiaoyu Tan, Zailiang Yu     
     <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)</i>.
