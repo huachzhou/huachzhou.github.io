@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022 and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
+I am a second-year Ph.D. student in DEEP Lab at The Hong Kong Polytechnic University, Department of Computing, supervised by [Dr. Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html "Redirecting to Dr.Huang's homepage"). I received M.S. from The Hong Kong Polytechnic University, Department of Applied Mathematics in 2022 and B.S. from East China Normal University, Department of Software Engineering in 2020, supervised by [Dr. Xiaoling Wang](https://www.aminer.cn/profile/xiaoling-wang/54488f3ddabfae87b7e43278" Redirecting to Dr.Wang's homepage").
 
 Before my Ph.D. study, I explored different roles in the industry and worked as a test/algorithm/research intern in Morgan Stanley/Bilibili/TCL Corporate Research, respectively. I was aware of my desire to pursue a Ph.D. degree in these internships and ready to begin the trip.
 
 <h1> Publications </h1>
-
+<b>2024</b>
+* [Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendation](https://huachzhou.github.io).     
+    Xuansheng Wu, <b>Huachi Zhou</b>, Yucheng Shi, Wenlin Yao, Xiao Huang, Ninghao Liu     
+    <i>TheWebConf (**WWW**)</i>.
+    
 <b>2023</b>
+* [Collaborative Parking Vacancy Prediction for Cities with Partial Sensors Missing](https://huachzhou.github.io).     
+    Beiyu Song, <b>Huachi Zhou</b>, Xiao Huang, Wei Ma     
+    <i>Transactions on IntelligentTransportation Systems (**TITS**)</i>.
+  
 * [Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation](https://huachzhou.github.io).     
     Shuang Zhou, Xiao Huang, Ninghao, Liu, <b>Huachi Zhou</b>, Fu-lai Chung, Long-Kai Huang     
     <i>Transactions on Knowledge and Data Engineering (**TKDE**)</i>.
