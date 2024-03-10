@@ -21,7 +21,7 @@ Before my Ph.D. study, I explored different roles in the industry and worked as 
 <b>2023</b>
 * [Collaborative Parking Vacancy Prediction for Cities with Partial Sensors Missing](https://huachzhou.github.io).     
     Beiyu Song, <b>Huachi Zhou</b>, Xiao Huang, Wei Ma     
-    <i>Transactions on IntelligentTransportation Systems (**TITS**)</i>.
+    <i>Transactions on Intelligent Transportation Systems (**TITS**)</i>.
   
 * [Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation](https://huachzhou.github.io).     
     Shuang Zhou, Xiao Huang, Ninghao, Liu, <b>Huachi Zhou</b>, Fu-lai Chung, Long-Kai Huang     
